@@ -41,8 +41,26 @@ def join_failed_messages():
 
     write_json_file('../data/failed_msg.json', data)
 
+
+def join_all():
+    requests = read_compressed_json_file(
+        '../data/requests.json.gzip')["objects"]
+    messages = read_compressed_json_file(
+        '../data/messages.json.gzip')["objects"]
+
+    data = []
+
+    for r in requests:
+            request_url = f"https://fragdenstaat.de/api/v1/request/{r['id']}/"
+            print(request_url)
+            new_data = [m for m in messages if m["request"] == request_url]
+            data.append({"request": r, "messages": new_data})
+
+    write_json_file('../data/full_messages.json', data)
+
+
 def main():
-    join_failed_messages()
+    join_all()
 
 
 if __name__ == '__main__':
