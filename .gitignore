@@ -1,3 +1,6 @@
 mockups
 .vscode
 data
+classifiy_requests/experiments
+*.bin
+out.csv

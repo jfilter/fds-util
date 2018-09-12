@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+tensorflow = "*"
+deep-plots = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
+
+[packages.text-classification-keras]
+ref = "develop"
+git = "https://github.com/jfilter/text-classification-keras/"
