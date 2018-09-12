@@ -1,0 +1,52 @@
+Kind: captions
+Language: de
+00:00:03,820 --> 00:00:07,040
+Mit dem Informationsfreiheitsgesetz können Bürgerinnen und Bürger
+00:00:07,040 --> 00:00:09,320
+Informationen von Behörden erhalten.
+00:00:09,320 --> 00:00:13,440
+Zwar veröffentlichten Behörden viele wichtige, aber eben längst nicht alle Informationen.
+00:00:13,700 --> 00:00:18,780
+Das Informationsfreiheitsgesetz ermöglicht uns in unveröffentlichte Dokumente hineinzuschauen.
+00:00:20,040 --> 00:00:22,320
+Wenn du das Informationsfreiheitsgesetz nutzt,
+00:00:22,320 --> 00:00:26,200
+machst du die Arbeit von Behörden öffentlicher und transparenter.
+00:00:27,500 --> 00:00:31,180
+Jeder Mensch darf ohne Angabe von Gründen nach Informationen fragen.
+00:00:31,180 --> 00:00:33,360
+Die Behörde muss antworten.
+00:00:33,540 --> 00:00:37,480
+Über das Informationsfreiheitsgesetz lassen sich die verschiedensten Dokumente anfragen.
+00:00:38,090 --> 00:00:43,030
+Zum Beispiel Baupläne, Briefwechsel, Datensätze oder interne Protokolle.
+00:00:44,700 --> 00:00:47,640
+Ohne Informationen kann es manchmal schwer sein, gehört zu werden.
+00:00:48,500 --> 00:00:53,640
+Indem du das Informationsfreiheitsgesetz nutzt, kannst du deine Anliegen mit Fakten unterstützen.
+00:00:57,060 --> 00:01:01,240
+Information, die in der öffentlichen Verwaltung an unterschiedlichen Stellen verteilt sind,
+00:01:01,560 --> 00:01:04,600
+können zusammen eine interessante Geschichte ergeben.
+00:01:07,440 --> 00:01:10,100
+Für all diese Fälle gibt es FragDenStaat.de
+00:01:10,380 --> 00:01:14,020
+Die Seite macht es dir leicht Informationsfreiheitsanfragen zu stellen.
+00:01:14,560 --> 00:01:18,840
+Zuerst wählst du die Behörde aus, die die von dir gewünschte Information haben könnte.
+00:01:20,740 --> 00:01:24,380
+Im nächsten Schritt, beschreibst du kurz, welche Informationen du genau benötigst.
+00:01:30,540 --> 00:01:34,420
+Wir verpacken deine Anfrage dann in einen vorformulierten Antragstext
+00:01:34,420 --> 00:01:37,400
+und versenden ihn für dich per E-Mail an die Behörde.
+00:01:37,560 --> 00:01:42,940
+Deine Anfrage und die Antwort der Behörde werden zusammen auf FragDenStaat.de veröffentlicht.
+00:01:43,190 --> 00:01:48,430
+So kannst du die Information mit anderen Interessierten teilen und Aufmerksamkeit auf dein Anliegen lenken.
+00:01:48,880 --> 00:01:53,400
+FragDenStaat ist ein kostenloses gemeinnütziges Projekt der Open Knowledge Foundation Deutschland.
+00:01:53,760 --> 00:01:55,760
+Hilft mit, Licht in Behörden zu bringen.
+00:01:56,060 --> 00:01:57,340
+Frag den Staat
